@@ -1,61 +1,69 @@
-Data Analyst Internship at Cognifyz
-Overview
-This repository contains the projects and analyses I completed during my Data Analysis internship at Cognifyz Technologies from 15-09-2024 to 15-10-2024. Cognifyz is a leading technology company specializing in data science, artificial intelligence (AI), machine learning (ML), and data analytics tools. Throughout my internship, I focused on applying data-driven insights to enhance business solutions.
+# Data Analyst Internship at Cognifyz Technologies
 
-Internship Highlights
-Company: Cognifyz Technologies
-Duration: 15-09-2024 to 15-10-2024
-Role: Data Analyst Intern
-Key Focus Areas: Data analysis, visualization, and reporting
-Projects Included
-Level 1 Tasks
-Top Cuisines Analysis:
+This repository contains projects and analyses completed during my Data Analyst Internship at **Cognifyz Technologies** from **15-09-2024 to 15-10-2024**. Cognifyz is a leading company specializing in data science, artificial intelligence (AI), machine learning (ML), and data analytics solutions. Throughout the internship, I focused on deriving data-driven insights to enhance business solutions.
 
-Identified the top three cuisines in the dataset.
-Calculated the percentage of restaurants serving each cuisine.
-City Analysis:
+## Internship Overview
 
-Determined the city with the highest number of restaurants.
-Analyzed average ratings of restaurants across cities.
-Price Range Distribution:
+**Company**: Cognifyz Technologies  
+**Duration**: 15-09-2024 to 15-10-2024  
+**Role**: Data Analyst Intern  
+**Key Focus Areas**: Data analysis, visualization, and reporting  
 
-Created visualizations (histograms/bar charts) to represent price range distribution among restaurants.
-Calculated the percentage of restaurants in each price range.
-Level 2 Tasks
-Restaurant Ratings Analysis:
+## Projects Included
 
-Analyzed the distribution of ratings and identified the most common rating ranges.
-Calculated the average number of votes for restaurants.
-Cuisine Combination Study:
+### Level 1 Tasks
 
-Identified the most common cuisine combinations and their correlation with ratings.
-Geographic Analysis:
+- **Top Cuisines Analysis**  
+   - Identified the top three cuisines.
+   - Calculated the percentage of restaurants serving each cuisine.
 
-Mapped restaurant locations using latitude and longitude to identify clustering patterns.
-Level 3 Tasks
-Review Analysis:
+- **City Analysis**  
+   - Determined the city with the highest number of restaurants.
+   - Analyzed average restaurant ratings across cities.
 
-Analyzed text reviews to identify common positive and negative keywords.
-Explored the relationship between review length and ratings.
-Votes Analysis:
+- **Price Range Distribution**  
+   - Created visualizations (histograms/bar charts) for price range distribution.
+   - Calculated the percentage of restaurants within each price range.
 
-Identified restaurants with the highest and lowest number of votes.
-Analyzed correlations between votes and ratings.
-Price Range vs. Delivery and Booking:
+### Level 2 Tasks
 
-Investigated relationships between price ranges and availability of online delivery and table booking services.
-Skills Developed
-During my internship, I enhanced my skills in:
+- **Restaurant Ratings Analysis**  
+   - Analyzed rating distribution and identified common rating ranges.
+   - Calculated the average number of votes for restaurants.
 
-Data Analysis Tools: Proficient in Python, R, and SQL for data manipulation and analysis.
+- **Cuisine Combination Study**  
+   - Identified popular cuisine combinations and analyzed their correlation with ratings.
 
-Data Visualization: Experienced in using Tableau and Matplotlib for effective data presentation.
+- **Geographic Analysis**  
+   - Mapped restaurant locations to identify clustering patterns.
 
-Statistical Techniques: Applied various statistical methods to derive insights and validate findings.
+### Level 3 Tasks
 
-Conclusion
-My internship at Cognifyz Technologies was an invaluable experience that allowed me to apply and enhance my data analysis skills in a professional setting. By engaging in various projects, I gained hands-on experience in data manipulation, visualization, and interpretation, which deepened my understanding of the practical applications of data science in business.
+- **Review Analysis**  
+   - Analyzed reviews to identify common positive and negative keywords.
+   - Explored the relationship between review length and ratings.
 
-Throughout this internship, I learned the importance of leveraging data to drive decisions and improve outcomes. I am grateful for the opportunity to work alongside talented professionals and contribute to impactful projects. This experience has further solidified my passion for data analytics and prepared me for future challenges in the field.
+- **Votes Analysis**  
+   - Identified restaurants with the highest and lowest number of votes.
+   - Analyzed correlations between votes and ratings.
 
-I look forward to continuing my journey in data science and applying the skills I have developed at Cognifyz to future projects
+- **Price Range vs. Delivery and Booking**  
+   - Investigated relationships between price ranges and availability of online delivery and table booking services.
+
+## Skills Developed
+
+Throughout this internship, I honed my skills in:
+
+- **Data Analysis Tools**: Gained proficiency in **Python**, **R**, and **SQL** for data manipulation and analysis.
+- **Data Visualization**: Developed effective data presentation skills using **Tableau** and **Matplotlib**.
+- **Statistical Techniques**: Applied various statistical methods to derive insights and validate findings.
+
+## Conclusion
+
+This internship provided an invaluable opportunity to apply my data analysis skills within a professional environment. By engaging in diverse projects, I developed hands-on experience in data manipulation, visualization, and interpretation, solidifying my understanding of data science applications in business.
+
+The experience deepened my passion for data analytics and prepared me for future challenges in the field. I look forward to continuing my journey in data science and applying these skills to impactful projects.
+
+---
+
+Thank you for exploring my repository!
